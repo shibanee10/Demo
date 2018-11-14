@@ -4,6 +4,8 @@ public class Demo1 {
 	{
 		System.out.println("shibanee");
 		System.out.println("shibanee");
+		System.out.println("shibanee");
+		System.out.println("shibanee");
 	}
 
 }
